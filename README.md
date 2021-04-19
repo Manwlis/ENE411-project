@@ -1,1 +1,3 @@
-# ENE411-project
+# Electrical design/ Wiring diagram
+
+Developed with autoCAD
